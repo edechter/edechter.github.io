@@ -1,1 +1,44 @@
-Hello World
+---
+layout: default
+title: Home
+---
+
+
+<div>
+  <img class="headshot" src="{{site.baseurl}}/assets/dechter_photo_2.png" />
+
+  <div id="contact-info">
+    edechter@mit.edu <br>
+    <br>
+    MIT <br>
+    43 Vassar St.<br>
+    Bldg. 46 Rm. 4053<br>
+    Cambridge, MA 02139<br>
+  </div>
+</div>
+
+<div style="clear:left"></div>
+<div id="research-statement">
+  <h2 class="section">
+    Research 
+  </h2>
+  <p class="message" style="float:left;font-size:medium">
+    I am a graduate student at 
+    <a href="http://cocosci.mit.edu">CoCoSci</a>, the computational
+    cognitive science group headed by Prof. Josh Tenenbaum at MIT's
+    Department of Brain and Cognitive Sciences. My work focuses on
+    developing computational models of concept acquisition by using
+    techniques from program synthesis and probabilistic knowledge base
+    induction.
+  </p>
+</div>
+
+<div id="publications">
+  <h2 class="section">
+    Publications
+  </h2>
+
+  <div class="bib_entries" style="font-size:small">
+    {% bibliography %}
+  </div>
+</div>
