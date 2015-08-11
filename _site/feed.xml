@@ -6,59 +6,34 @@
 		<link>http://edechter.github.io</link>
 		
 			<item>
-				<title>First post</title>
-				<description>&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a
- lawyer investigating the connection of two persons, Dr. Henry Jekyll
- and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man
- by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
+				<title>What are the standards of science journalism?</title>
+				<description>&lt;p&gt;The Boston globe &lt;a href=&quot;http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html&quot;&gt;reported today&lt;/a&gt; on a paper from &lt;a href=&quot;http://arxiv.org/abs/1412.0348&quot;&gt;Arturs Backurs and Piotr Indyk&lt;/a&gt; that shows that any algorithm that computes the edit distance between two strings in sub-quadratic time implies the existence of a sub-exponential time algorithm for SAT on N variables. Since this would in turn imply that P=NP, the result suggests that such an algorithm does not exist.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Here’s how the Globe describes the finding:&lt;/p&gt;
 
-&lt;!-- Poole is the butler for [Jekyll](http://jekyllrb.com), the static site --&gt;
-&lt;!-- generator. It&#39;s designed and developed by --&gt;
-&lt;!-- [@mdo](https://twitter.com/mdo) to provide a clear and concise --&gt;
-&lt;!-- foundational setup for any Jekyll site. It does so by furnishing a --&gt;
-&lt;!-- full vanilla Jekyll install with example templates, pages, posts, and --&gt;
-&lt;!-- styles. --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;For 40 years, computer scientists have tried in vain to find a
+faster way to do an important calculation known as “edit distance.”
+Thanks to groundbreaking work from two researchers at MIT, they now
+know the reason they’ve continually failed is because a faster
+method is actually impossible to create.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;!-- There are currently two themes built on Poole: --&gt;
+&lt;p&gt;And here’s how Backurs and Indyk describe their result in the paper’s abstract:&lt;/p&gt;
 
-&lt;!-- * [Hyde](http://hyde.getpoole.com) --&gt;
-&lt;!-- * [Lanyon](http://lanyon.getpoole.com) --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In this paper we provide &lt;strong&gt;evidence&lt;/strong&gt; that the near-quadratic running
+time bounds known for the problem of computing edit distance &lt;strong&gt;might&lt;/strong&gt;
+be tight. (emphasis mine)&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;!-- Learn more and contribute on [GitHub](https://github.com/poole). --&gt;
+&lt;p&gt;I understand that the subtlety of arguments based on whether P equals NP might be lost on most of the Globe’s readers. On the one hand, the force of the result is contingent on the conjecture that P does not equal NP. On the other hand, it’s not a &lt;strong&gt;mere&lt;/strong&gt; conjecture; computer scientists will certainly act as if a subquadratic algorithm is impossible to create.&lt;/p&gt;
 
-&lt;!-- ### What&#39;s included --&gt;
+&lt;p&gt;But don’t journalist have a responsibility to report on scientific results accurately? Couldn’t Harnet (the Globe reporter) have written “almost certainly impossible to create” instead of “actually impossible to create”? We wouldn’t tolerate this kind of reporting on, say, whether the wreckage in the Indian ocean belongs to the missing Malaysian Airlines flight; if the authorities say that they strongly suspect it belongs to the missing airplane, that doesn’t license reporters to say that authorities are sure it does.&lt;/p&gt;
 
-&lt;!-- Poole is a streamlined Jekyll site designed and built as a foundation --&gt;
-&lt;!-- for building more meaningful themes. Poole, and every theme built on --&gt;
-&lt;!-- it, includes the following: --&gt;
-
-&lt;!-- * Mobile friendly design and development --&gt;
-&lt;!-- * Easily scalable text and component sizing with `rem` units in the CSS --&gt;
-&lt;!-- * Support for a wide gamut of HTML elements --&gt;
-&lt;!-- * Related posts (time-based, because Jekyll) below each post --&gt;
-&lt;!-- * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter) --&gt;
-
-&lt;!-- Additional features are available in individual themes. --&gt;
-
-&lt;!-- ### Browser support --&gt;
-
-&lt;!-- Poole and its themes are by preference a forward-thinking project. In --&gt;
-&lt;!-- addition to the latest versions of Chrome, Safari (mobile and --&gt;
-&lt;!-- desktop), and Firefox, it is only compatible with Internet Explorer 9 --&gt;
-&lt;!-- and above. --&gt;
-
-&lt;!-- ### Download --&gt;
-
-&lt;!-- Poole is developed on and hosted with GitHub. Head to the &lt;a --&gt;
-&lt;!-- href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for --&gt;
-&lt;!-- downloads, bug reports, and features requests. --&gt;
-
-&lt;!-- Thanks! --&gt;
 </description>
-				<published>2014-01-02 00:00:00 -0500</published>
-				<link>http://edechter.github.io/2014/01/02/introducing-poole/</link>
+				<published>2015-08-11 00:00:00 -0400</published>
+				<link>http://edechter.github.io/science/2015/08/11/standards-of-science-journalism/</link>
 			</item>
 		
 	</channel>

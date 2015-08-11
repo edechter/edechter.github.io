@@ -9,6 +9,7 @@ title:               Eyal Dechter
 tagline:             "Eyal Dechter's blog"
 url:                 http://edechter.github.io
 paginate:            1
+paginate_path:       "/blog/page:num/"
 baseurl:             ""
 asseturl:            "assets"
 
@@ -25,6 +26,8 @@ author:
   url:               https://edechter.github.io
   email:             edechter@mit.edu
 
+pages_list:
+  Blog: '/blog'
 
 cv:
   filename: '/cv.pdf'
