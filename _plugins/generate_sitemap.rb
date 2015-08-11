@@ -1,4 +1,4 @@
-b# Jekyll sitemap page generator.
+# Jekyll sitemap page generator.
 # http://recursive-design.com/projects/jekyll-plugins/
 #
 # Version: 0.1.8 (201108151628)
