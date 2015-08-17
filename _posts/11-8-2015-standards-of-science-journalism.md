@@ -2,6 +2,7 @@
 layout: post
 title: What are the standards of science journalism?
 category: Science
+comments: true
 
 excerpt: A sample draft post.
 
@@ -10,6 +11,8 @@ globelink: http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-
 archiv_link: http://arxiv.org/abs/1412.0348
 
 ---
+
+
 
 The Boston globe [reported today]({{page.globelink}}) on a paper from [Arturs Backurs and Piotr Indyk]({{page.archiv_link}}) that shows that any algorithm that computes the edit distance between two strings in sub-quadratic time implies the existence of a sub-exponential time algorithm for SAT on N variables. Since this would in turn imply that P=NP, the result suggests that such an algorithm does not exist.
 
@@ -32,4 +35,4 @@ I understand that the subtlety of arguments based on whether P equals NP might b
 But don't journalist have a responsibility to report on scientific results accurately? Couldn't Harnet (the Globe reporter) have written "almost certainly impossible to create" instead of "actually impossible to create"? We wouldn't tolerate this kind of reporting on, say, whether the wreckage in the Indian ocean belongs to the missing Malaysian Airlines flight; if the authorities say that they strongly suspect it belongs to the missing airplane, that doesn't license reporters to say that authorities are sure it does.
 
 
-
+{% include comments.html %}
