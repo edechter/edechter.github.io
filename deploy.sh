@@ -1,4 +1,4 @@
-`#!/bin/bash -ex
+#!/bin/bash -ex
 
 git branch -D master
 git checkout -b master
