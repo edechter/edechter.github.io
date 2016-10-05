@@ -30,8 +30,7 @@ but on the subjective reports of experts (Cook's Political Report,
 Rothenberg & Gonzalez, and Sabato's Crystal Ball) or the aggregated
 subjective reports of gamblers (Predictwise).
 
-Although the FiveThirtyEight ("polls-only"
-model)[http://projects.fivethirtyeight.com/2016-election-forecast/#odds]
+Although the FiveThirtyEight [polls-only model](http://projects.fivethirtyeight.com/2016-election-forecast/#odds)
 is described as being a true forecast, but comparing their
 [now-cast](http://projects.fivethirtyeight.com/2016-election-forecast/#now&odds)
 to the polls-only forecast suggests that the forecast is just a
@@ -48,7 +47,7 @@ look a lot like now-casts.
 
 It is instructive to compare these probable now-casts to the one true
 quantitative forecast, the one at
-(Predictwise)[http://predictwise.com/politics/2016-president-winner#Link11]. Note
+[Predictwise](http://predictwise.com/politics/2016-president-winner#Link11). Note
 how much smaller the variance is. And note too the large, consistent,
 and increasing gap between Clinton and Trump.
 
