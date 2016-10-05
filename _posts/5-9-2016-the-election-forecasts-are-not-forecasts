@@ -1,0 +1,58 @@
+---
+
+layout: post
+title: Most of the election "forecasts" are not forecasts
+category: Meta
+
+---
+
+The NY Times compiles a
+[list](http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html)
+of "forecasts" of the presidential election. People I know are paying
+a lot of attention to the NY Times's forecast (The Upshot) and the 538
+forecast. As the reported probability of Hillary Clinton winning
+varies, so do their hopes and anxieties.
+
+These forecasts are not really forecasts, however. At the very least,
+they are not what we usually think of when we think of
+forecasts. Forecasts are predictions about the future. For the most
+part, the forecasts that the NY Times reports are judgements about who
+would win if the election were *today* - or a "now-cast" (as the 538
+people call their explicitly non-forecasting non-forecast). Claiming
+that these are forecasts is like estimating whether it will rain this
+weekend by looking out the window.
+
+Of those reported on the NY Times site, the Huffington Post "forecast"
+is the only one that explicitly says it is a now-cast. And there are
+other forecasts on the site that are, without a doubt, actually
+forecasts. These are the ones that are not based on statistical models
+but on the subjective reports of experts (Cook's Political Report,
+Rothenberg & Gonzalez, and Sabato's Crystal Ball) or the aggregated
+subjective reports of gamblers (Predictwise).
+
+Although the FiveThirtyEight ("polls-only"
+model)[http://projects.fivethirtyeight.com/2016-election-forecast/#odds]
+is described as being a true forecast, but comparing their
+[now-cast](http://projects.fivethirtyeight.com/2016-election-forecast/#now&odds)
+to the polls-only forecast suggests that the forecast is just a
+smoothed out version of the now-cast. That is, to the degree that the
+polls-only model is actually a forecast, it is a poor one, since it
+varies tremendously, suggesting that it has little predictive power
+beyond just assuming that what is true today will be true on November
+8th. 
+
+The remaining "forecasts" do not specify how they work, so it is
+unclear whether they are really forecasts in a meaninful sense, but
+given that they all (other than the PEC one that has a broken link)
+look a lot like now-casts.
+
+It is instructive to compare these probable now-casts to the one true
+quantitative forecast, the one at
+(Predictwise)[http://predictwise.com/politics/2016-president-winner#Link11]. Note
+how much smaller the variance is. And note too the large, consistent,
+and increasing gap between Clinton and Trump.
+
+
+
+
+
