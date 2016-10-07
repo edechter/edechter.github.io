@@ -4,13 +4,66 @@
  <title>Eyal Dechter</title>
  <link href="http://edechter.github.io//atom.xml" rel="self"/>
  <link href="http://edechter.github.io/"/>
- <updated>2016-10-04T22:29:43-04:00</updated>
+ <updated>2016-10-07T10:10:10-04:00</updated>
  <id>http://edechter.github.io</id>
  <author>
    <name>Eyal Dechter</name>
    <email>edechter@mit.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Most of the election "forecasts" are not forecasts</title>
+   <link href="http://edechter.github.io///meta/2016/09/05/the-election-forecasts-are-not-forecasts/"/>
+   <updated>2016-09-05T00:00:00-04:00</updated>
+   <id>http://edechter.github.io/meta/2016/09/05/the-election-forecasts-are-not-forecasts</id>
+   <content type="html">&lt;p&gt;The NY Times compiles a
+&lt;a href=&quot;http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html&quot;&gt;list&lt;/a&gt;
+of “forecasts” of the presidential election. People I know are paying
+a lot of attention to the NY Times’s forecast (The Upshot) and the 538
+forecast. As the reported probability of Hillary Clinton winning
+varies, so do their hopes and anxieties.&lt;/p&gt;
+
+&lt;p&gt;These forecasts are not really forecasts, however. At the very least,
+they are not what we usually think of when we think of
+forecasts. Forecasts are predictions about the future. For the most
+part, the forecasts that the NY Times reports are judgements about who
+would win if the election were &lt;em&gt;today&lt;/em&gt; - or a “now-cast” (as the 538
+people call their explicitly non-forecasting non-forecast). Claiming
+that these are forecasts is like estimating whether it will rain this
+weekend by looking out the window.&lt;/p&gt;
+
+&lt;p&gt;Of those reported on the NY Times site, the Huffington Post “forecast”
+is the only one that explicitly says it is a now-cast. And there are
+other forecasts on the site that are, without a doubt, actually
+forecasts. These are the ones that are not based on statistical models
+but on the subjective reports of experts (Cook’s Political Report,
+Rothenberg &amp;amp; Gonzalez, and Sabato’s Crystal Ball) or the aggregated
+subjective reports of gamblers (Predictwise).&lt;/p&gt;
+
+&lt;p&gt;Although the FiveThirtyEight &lt;a href=&quot;http://projects.fivethirtyeight.com/2016-election-forecast/#odds&quot;&gt;polls-only model&lt;/a&gt;
+is described as being a true forecast, but comparing their
+&lt;a href=&quot;http://projects.fivethirtyeight.com/2016-election-forecast/#now&amp;amp;odds&quot;&gt;now-cast&lt;/a&gt;
+to the polls-only forecast suggests that the forecast is just a
+smoothed out version of the now-cast. That is, to the degree that the
+polls-only model is actually a forecast, it is a poor one, since it
+varies tremendously, suggesting that it has little predictive power
+beyond just assuming that what is true today will be true on November
+8th. &lt;/p&gt;
+
+&lt;p&gt;The remaining “forecasts” do not specify how they work, so it is
+unclear whether they are really forecasts in a meaninful sense, but
+given that they all (other than the PEC one that has a broken link)
+look a lot like now-casts.&lt;/p&gt;
+
+&lt;p&gt;It is instructive to compare these probable now-casts to the one true
+quantitative forecast, the one at
+&lt;a href=&quot;http://predictwise.com/politics/2016-president-winner#Link11&quot;&gt;Predictwise&lt;/a&gt;. Note
+how much smaller the variance is. And note too the large, consistent,
+and increasing gap between Clinton and Trump.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Boston 311</title>
